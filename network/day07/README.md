@@ -57,8 +57,6 @@ id0101:hi
 
 ### 4. 테스트
 
-![](.\img\11.png)
-
-![](.\img\22.png)
-
-![](.\img\33.png)
+<img width="765" alt="11" src="https://user-images.githubusercontent.com/36683607/74899009-febf0c80-53de-11ea-9353-6db533df5ba7.png">
+<img width="491" alt="22" src="https://user-images.githubusercontent.com/36683607/74899012-fff03980-53de-11ea-8fb9-9ce6ef52c82e.png">
+<img width="210" alt="33" src="https://user-images.githubusercontent.com/36683607/74899013-0088d000-53df-11ea-91b6-1452cf0b8352.png">
