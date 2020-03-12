@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "879105937294",
+    "firebase_url": "https://mul-2020.firebaseio.com",
+    "project_id": "mul-2020",
+    "storage_bucket": "mul-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879105937294:android:a95928eaa0925a71d69edf",
+        "android_client_info": {
+          "package_name": "com.example.mul_2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879105937294-738qaf4er3flki55alou5rvbbrrm7guu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSi0l0iRFj3mB6SUJqVWekpIq1ghfNjxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879105937294-738qaf4er3flki55alou5rvbbrrm7guu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

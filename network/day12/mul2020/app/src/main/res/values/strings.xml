@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mul-2020</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token : %s</string>
+</resources>
