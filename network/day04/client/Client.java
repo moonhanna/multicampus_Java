@@ -103,7 +103,7 @@ public class Client {
 
 		Client client = null;
 		try {
-			client = new Client("70.12.231.175", 8888);
+			client = new Client("IP", 8888);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
